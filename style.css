@@ -134,6 +134,7 @@ main img{
 
 main img.pequena{
     max-width: 350px;
+    height: auto;
     display: block;
     margin: auto;
 }
